@@ -1,7 +1,7 @@
 mlops-deploy
 ==============================
 
-A simple FastAPI app serving a ML model. This repository is a playground to test features such as cookiecutter.
+A simple FastAPI app serving a ML model. This repository is a playground to test features such as cookiecutter, cloud deployment, etc.
 
 Project Organization
 ------------
